@@ -20,6 +20,10 @@ Manual synchronization is required for clients that are out-of-date for more tha
 ### Threads
 Threads are collections of messages that represent a conversation.  Like messages, threads may also have labels applied to them. However, unlike messages, threads cannot be created, only deleted.  Messages can be inserted into a thread.
 
+## API Authorization and Scopes
+
+Like other Google APIs, the Gmail API uses OAuth 2.0 to handle authentication and authorization which means you will have to generate client credentials in the Google Developers Console.  Your app will also specify one or more scopes to gain access to various resources provided by the API.
+
 ## Quick Links
 
  * [Intro to GMAIL API video](https://www.youtube.com/watch?v=UhdiQmS3kDs)
