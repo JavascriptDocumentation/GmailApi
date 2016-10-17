@@ -10,12 +10,15 @@ The Gmail RESTful API uses a JSON payload and provides five primary resource typ
 - History 
 - Threads
 
-### Resource Type: Messages
+### Messages
 Messages are immutable: they can only be created and deleted.  No message properties can be changed other than the labels applied to a given message.
 
-### Resource Type: History
+### History
 History is a collection of recently modified messages in chronological order. While the history is intended as a lightweight method of synchronizing a client, it typically only contains records of changes within the past 30 days.
 Manual synchronization is required for clients that are out-of-date for more than 30 days.
+
+### Threads
+Threads are collections of messages that represent a conversation.  Like messages, threads may also have labels applied to them. However, unlike messages, threads cannot be created, only deleted.  Messages can be inserted into a thread.
 
 ## Quick Links
 
