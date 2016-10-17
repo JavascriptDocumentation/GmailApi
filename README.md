@@ -1,6 +1,14 @@
 # GmailApi
-The Gmail API is a RESTful API that can be used to access Gmail mailboxes and send mail.
-The API supports many of the basic operations available through the Gmail user interface like reading, composing, and sending mail.
+API Overview
+
+The Gmail API is a RESTful API that can be used to access Gmail mailboxes and send mail.  The API supports many of the basic operations available through the Gmail user interface like reading, composing, and sending mail.
+
+The Gmail RESTful API uses a JSON payload and provides five primary resource types:
+- Messages
+- Labels
+- Drafts
+- History 
+- Threads
 
 ## Quick Links
 
