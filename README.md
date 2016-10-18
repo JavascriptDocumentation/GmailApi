@@ -32,3 +32,4 @@ Like other Google APIs, the Gmail API uses OAuth 2.0 to handle authentication an
  * [Building Web Applications using Google APIs and JavaScript Client for Google APIs](https://www.youtube.com/watch?v=Z9uhYIzaiHI)
  * [Gmail Api v1 Services](https://developers.google.com/apis-explorer/?hl=en_US#p/gmail/v1/)
  * [Cross-Origin Resource Sharing](https://www.w3.org/TR/cors/)
+ * [How to parse PDF files](https://thomaslevine.com/!/parsing-pdfs/)
