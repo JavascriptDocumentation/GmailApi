@@ -37,3 +37,4 @@ Like other Google APIs, the Gmail API uses OAuth 2.0 to handle authentication an
  * [Google Push Notifications](https://developers.google.com/gmail/api/guides/push)
  * [Gmail Service Reference Guide](https://developers.google.com/apps-script/reference/gmail/)
  * [Verifying Domains for Push Notifications](https://support.google.com/googleapi/answer/7072069?hl=en)
+ * [Googel API Javascript Libraries](https://developers.google.com/api-client-library/javascript/start/start-js#registeryourapp)
