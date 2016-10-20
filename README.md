@@ -24,6 +24,11 @@ Threads are collections of messages that represent a conversation.  Like message
 
 Like other Google APIs, the Gmail API uses OAuth 2.0 to handle authentication and authorization which means you will have to generate client credentials in the Google Developers Console.  Your app will also specify one or more scopes to gain access to various resources provided by the API.
 
+## Gmail API Scopes
+
+Listed in most to least reestrictive order:
+ * 'https://www.googleapis.com/auth/gmail.readonly' - Read only access to all resources + metadata
+
 ## Quick Links
 
  * [Gmail Api Overview](https://developers.google.com/gmail/api/guides/)
