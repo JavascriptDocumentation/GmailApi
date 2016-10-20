@@ -26,7 +26,7 @@ Like other Google APIs, the Gmail API uses OAuth 2.0 to handle authentication an
 
 ## Gmail API Scopes
 
-Listed in most to least restrictive order:
+List of most to least restrictive scopes:
  * 'https://www.googleapis.com/auth/gmail.readonly' - Read only access to all resources + metadata
  * 'https://www.googleapis.com/auth/gmail.send' - Send messages only (no inbox read nor modify)
  * 'https://www.googleapis.com/auth/gmail.labels' - Create, read, update, and delete labels only
