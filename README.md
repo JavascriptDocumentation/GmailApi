@@ -50,3 +50,4 @@ List of most to least restrictive scopes:
  * [Verifying Domains for Push Notifications](https://support.google.com/googleapi/answer/7072069?hl=en)
  * [Google API Javascript Libraries](https://developers.google.com/api-client-library/javascript/start/start-js#registeryourapp)
  * [What is Google Cloud Pub/Sub?](https://cloud.google.com/pubsub/docs/overview)
+ * [Parsing body of an email](http://stackoverflow.com/questions/17874360/python-how-to-parse-the-body-from-a-raw-email-given-that-raw-email-does-not)
