@@ -10,6 +10,7 @@ The Gmail RESTful API uses a JSON payload and provides five primary resource typ
 - History 
 - Threads
 
+
 ### Messages
 Messages are immutable: they can only be created and deleted.  No message properties can be changed other than the labels applied to a given message.
 
